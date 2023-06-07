@@ -460,6 +460,22 @@
         "user_dout": "01, 02, 03, 04, 05, 12, 13, 14, 15, 16",
         "user_aout": "25, 26"
     },
+    "ESP32_E-Lagori": {
+        "platform": "esp32:esp32:esp32_E-Lagori",
+        "define": "ESP32_E-Lagori",
+        "source": "esp32.cpp",
+        "version": "0",
+        "last_update": 0,
+        "core": "esp32:esp32",
+        "default_din": "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16",
+        "default_ain": "I1,I2,I3,I4,I5,I6,I7,I8,I9,I10,I11,I12,I13,I14,I15,I16",
+        "default_dout": "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16",
+        "default_aout": "O1,O2,O3,O4,O5,O6,O7,O8,O9,O10,O11,O12,O13,O14,O15,O16",
+        "user_din": "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16",
+        "user_ain":  "I1,I2,I3,I4,I5,I6,I7,I8,I9,I10,I11,I12,I13,I14,I15,I16",
+        "user_dout": "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16",
+        "user_aout": "O1,O2,O3,O4,O5,O6,O7,O8,O9,O10,O11,O12,O13,O14,O15,O16"
+    },
     "CONTROLLINO MAXI": {
         "platform": "CONTROLLINO_Boards:avr:controllino_maxi",
         "source": "controllino_maxi.cpp",
