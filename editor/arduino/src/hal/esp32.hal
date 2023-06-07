@@ -6,3 +6,4 @@ ESP32,                    esp32:esp32:esp32, BOARD_ESP32
 ESP32-S2,                 esp32:esp32:esp32s2, BOARD_ESP32
 ESP32-C3,                 esp32:esp32:esp32c3, BOARD_ESP32
 ESP32-DOIT DEVKIT V1,     esp32:esp32:esp32doit-devkit-v1, BOARD_ESP32
+ESP32_E-Lagori,           esp32:esp32:esp32_E-Lagori, BOARD_ESP32
